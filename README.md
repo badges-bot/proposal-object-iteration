@@ -1,5 +1,7 @@
 # WITHDRAWN: This proposal has been withdrawn from consideration
 
+![Stage 1](https://badges.aleen42.com/src/tc39_2.svg)
+
 After concerns were raised at the February 2020 meeting, this proposal is being withdrawn.
 
 # Improving iteration on Objects
